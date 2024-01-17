@@ -192,6 +192,6 @@ pyrightconfig.json
 .history
 .ionide
 
-./Semana2
+/Semana2
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
