@@ -1,6 +1,6 @@
 ![Bourbaki](https://github.com/contepablod/ML_Bourbaki/assets/80008587/a4e9143f-500c-444c-aa3e-8938d22508d5)
 
-<img width="566" alt="TemarioML" src="https://github.com/contepablod/ML_Bourbaki/assets/80008587/6e1f3d34-a51a-48ad-817a-a98a9d76f18d">
+![TemarioProfundizacionML](https://github.com/contepablod/ML_Bourbaki/assets/80008587/857d257a-516a-48a7-84a0-6d252e13fdcc)
 
 ![Matematicas](https://github.com/contepablod/ML_Bourbaki/assets/80008587/791b6aa9-5273-4298-9345-73b1ecda44b1)
 
