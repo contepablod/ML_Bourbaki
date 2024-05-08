@@ -193,4 +193,10 @@ pyrightconfig.json
 .ionide
 
 Semana2/ESG_indicators_missing_value_estimation_tf.ipynb
+Semana3/Data/combined_data_1.txt
+Semana3/Data/combined_data_2.txt
+Semana3/Data/combined_data_3.txt
+Semana3/Data/combined_data_4.txt
+Semana3/Data/probe.txt
+Semana3/Data/qualifying.txt
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
