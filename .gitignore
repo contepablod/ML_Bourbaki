@@ -202,4 +202,11 @@ Semana3/Data/combined_data_4.txt
 Semana3/Data/probe.txt
 Semana3/Data/qualifying.txt
 Semana4/data.csv
+Semana5-1/best_model.pt
+Semana5-1/dqn_ep1000.pt
+Semana5-1/dqn_ep2000.pt
+Semana5-1/dqn_ep3000.pt
+Semana5-1/dqn_ep4000.pt
+Semana5-1/dqn_ep5000.pt
+
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
